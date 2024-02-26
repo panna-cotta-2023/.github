@@ -5,8 +5,7 @@ Panna cotta (lit. 'cooked cream') is an Italian dessert of sweetened cream thi
 
 ## Repos
 - [iOS App](https://github.com/panna-cotta-2023/ChillyDaze)
-- [GraphQL Gateway](https://github.com/panna-cotta-2023/chilly-daze-gateway)
-- [gRPC Service API](https://github.com/panna-cotta-2023/chilly-daze-api)
+- [GraphQL API](https://github.com/panna-cotta-2023/chilly-daze-api)
 
 - [p2hacks2023/post-04](https://github.com/p2hacks2023/post-04)
 
